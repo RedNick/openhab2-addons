@@ -104,7 +104,7 @@ All devices support some of the following channels:
 | colorTemperature | Dimmer    | Set the color temperature of Smart Home light. | LB120, LB130                                                    |
 | color            | Color     | Set the color of the Smart Home light.         | LB130                                                           |
 | power            | Number    | Actual energy usage in Watt.                   | HS110                                                           |
-| eneryUsage       | Number    | Energy Usage in kWh.                           | HS110                                                           |
+| energyUsage       | Number    | Energy Usage in kWh.                           | HS110                                                           |
 | current          | Number    | Actual current usage in Ampere.                | HS110                                                           |
 | voltage          | Number    | Actual voltage usage in Volt.                  | HS110                                                           |
 | rssi             | Number    | Wi-Fi signal strength indicator in dBm.        | HS100, HS105, HS110, LB100, LB110, LB120, LB130, RE270K, RE370K |
